@@ -1,1 +1,1 @@
-# JavaScript. Personal movie data base.
+# JavaScript. Personal movie data base. First task in JS.
